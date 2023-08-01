@@ -1,0 +1,15 @@
+.header1 {
+
+    text-align: center;
+}
+h1{text-decoration: underline;}
+
+.widepx{width: 500px;
+float: right;}
+
+.grid{display: grid;
+border-color: blue;
+border-style: dashed;}
+
+.grid1{border-style: dashed;
+height: 50px;}
